@@ -1,2 +1,2 @@
 # superviza
-Zomba DHO supervision tool
+Zomba DHO supervision tool.
